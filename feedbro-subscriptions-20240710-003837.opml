@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="IBM Redbooks | Just Published" title="IBM Redbooks | Just Published" type="rss" 
+            xmlUrl="https://www.redbooks.ibm.com/rss/all.xml?Open" htmlUrl="https://www.redbooks.ibm.com"/>
+      <outline text="wzyboy’s blog" title="wzyboy’s blog" type="rss" 
+            xmlUrl="https://wzyboy.im/feed.xml" htmlUrl="https://wzyboy.im/"/>
+      <outline text="酷 壳 – CoolShell" title="酷 壳 – CoolShell" type="rss" 
+            xmlUrl="http://coolshell.cn/feed" htmlUrl="https://coolshell.cn"/>
+      <outline text="系统技术非业余研究" title="系统技术非业余研究" type="rss" 
+            xmlUrl="https://blog.yufeng.info/feed" htmlUrl="https://blog.yufeng.info"/>
+      <outline text="四火的唠叨" title="四火的唠叨" type="rss" 
+            xmlUrl="http://www.raychase.net/feed" htmlUrl="https://www.raychase.net"/>
+      <outline text="VMware Support Insider" title="VMware Support Insider" type="rss" 
+            xmlUrl="https://www.vmware.com/go/vmwarekbfeed" htmlUrl="https://blogs.vmware.com/kb/"/>
+      <outline text="Enable Sysadmin" title="Enable Sysadmin" type="rss" 
+            xmlUrl="https://www.redhat.com/sysadmin/rss.xml" htmlUrl="https://www.redhat.com/sysadmin/"/>
+      <outline text="卡瓦邦噶！" title="卡瓦邦噶！" type="rss" 
+            xmlUrl="https://www.kawabangga.com/feed" htmlUrl="https://www.kawabangga.com"/>
+      <outline text="vcdx133.com" title="vcdx133.com" type="rss" 
+            xmlUrl="https://vcdx133.com/feed" htmlUrl="https://vcdx133.com"/>
+      <outline text="VivaPowerPC - blog" title="VivaPowerPC - blog" type="rss" 
+            xmlUrl="https://vivapowerpc.eu/blog-rss.xml" htmlUrl="http://vivapowerpc.eu/"/>
+      <outline text="Blogging about open source virtualization" title="Blogging about open source virtualization" type="rss" 
+            xmlUrl="https://planet.virt-tools.org/rss20.xml" htmlUrl="https://planet.virt-tools.org/"/>
+      <outline text="Reimu&#39;s blog" title="Reimu&#39;s blog" type="rss" 
+            xmlUrl="https://blog.k8s.li/atom.xml"/>
+      <outline text="结绳志 Tying Knots" title="结绳志 Tying Knots" type="rss" 
+            xmlUrl=" https://tyingknots.net/feed/" htmlUrl="https://tyingknots.net"/>
+      <outline text="观止·每日一文" title="观止·每日一文" type="rss" 
+            xmlUrl="http://feedmaker.kindle4rss.com/feeds/meiriyiwen.xml" htmlUrl="https://meiriyiwen.com"/>
+      <outline text="多面體的雹子 polyhedron&#39;s blog" title="多面體的雹子 polyhedron&#39;s blog" type="rss" 
+            xmlUrl="https://biopolyhedron.github.io/atom.xml"/>
+      <outline text="Packagecloud Blog" title="Packagecloud Blog" type="rss" 
+            xmlUrl="http://feeds.feedburner.com/PackagecloudBlog" htmlUrl="https://blog.packagecloud.io/"/>
+      <outline text="美团技术团队" title="美团技术团队" type="rss" 
+            xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/feed/"/>
+      <outline text="OSCHINA 社区最新新闻" title="OSCHINA 社区最新新闻" type="rss" 
+            xmlUrl="https://www.oschina.net/news/rss" htmlUrl="https://www.oschina.net/news/rss"/>
+      <outline text="JustPod" title="JustPod" type="rss" 
+            xmlUrl="https://justpodnews.com/rss/" htmlUrl="https://justpodnews.com/"/>
+      <outline text="Untitled feed" title="Untitled feed" type="rss" 
+            xmlUrl="http://www.4sbooks.com/feed" htmlUrl="https://www.4sbooks.com"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="月光博客" title="月光博客" type="rss" 
+            xmlUrl="https://www.williamlong.info/rss.xml" htmlUrl="https://www.williamlong.info/"/>
+      <outline text="书格" title="书格" type="rss" 
+            xmlUrl="https://new.shuge.org/feed/" htmlUrl="https://www.shuge.org"/>
+      <outline text="纽约时报双语版" title="纽约时报双语版" type="rss" 
+            xmlUrl="https://feedx.net/rss/nytimesdual.xml" htmlUrl="http://nytimes.com"/>
+      <outline text="知乎每日精选" title="知乎每日精选" type="rss" 
+            xmlUrl="https://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com"/>
+      <outline text="plantegg" title="plantegg" type="rss" 
+            xmlUrl="https://plantegg.github.io/atom.xml"/>
+      <outline text="andrestc.com" title="andrestc.com" type="rss" 
+            xmlUrl="https://andrestc.com/index.xml" htmlUrl="https://andrestc.com/"/>
+      <outline text="JUST DO IT" title="JUST DO IT" type="rss" 
+            xmlUrl="https://leeshengis.com/rss.xml" htmlUrl="https://leeshengis.com"/>
+      <outline text="VMware Compatibility Guide - Information for IBM Elastic Storage Server by IBM" title="VMware Compatibility Guide - Information for IBM Elastic Storage Server by IBM" type="rss" 
+            xmlUrl="https://www.vmware.com/resources/compatibility/rss/feed_service.php?devType=san&amp;id=39658" htmlUrl="http://www.vmware.com/resources/compatibility/detail.php?deviceCategory=san&amp;productid=39658"/>
+      <outline text="Red Hat Blog" title="Red Hat Blog" type="rss" 
+            xmlUrl="https://www.redhat.com/en/rss/blog" htmlUrl="https://www.redhat.com/en/rss/blog"/>
+      <outline text="InfoQ" title="InfoQ" type="rss" 
+            xmlUrl="https://feed.infoq.com/" htmlUrl="https://www.infoq.com"/>
+      <outline text="Martin Fowler" title="Martin Fowler" type="rss" 
+            xmlUrl="https://martinfowler.com/feed.atom"/>
+      <outline text="CodingLabs" title="CodingLabs" type="rss" 
+            xmlUrl="http://blog.codinglabs.org/rss.xml" htmlUrl="http://blog.codinglabs.org"/>
+      <outline text="Unstructured Data Quick Tips" title="Unstructured Data Quick Tips" type="rss" 
+            xmlUrl="http://www.unstructureddatatips.com/feed/" htmlUrl="http://www.unstructureddatatips.com"/>
+      <outline text="Sysdig – Sysdig Monitor Archives" title="Sysdig – Sysdig Monitor Archives" type="rss" 
+            xmlUrl="https://sysdig.com/blog/category/sysdig-monitor2/feed/"/>
+      <outline text="LWN.net" title="LWN.net" type="rss" 
+            xmlUrl="https://lwn.net/headlines/rss" htmlUrl="https://lwn.net"/>
+      <outline text="David Heinemeier Hansson" title="David Heinemeier Hansson" type="rss" 
+            xmlUrl="https://world.hey.com/dhh/feed.atom" htmlUrl="https://world.hey.com/dhh"/>
+      <outline text="All Things Distributed" title="All Things Distributed" type="rss" 
+            xmlUrl="https://www.allthingsdistributed.com/atom.xml" htmlUrl="https://www.allthingsdistributed.com/"/>
+      <outline text="Artem Krylysov" title="Artem Krylysov" type="rss" 
+            xmlUrl="https://artem.krylysov.com/atom.xml"/>
+      <outline text="laike9m&#39;s blog" title="laike9m&#39;s blog" type="rss" 
+            xmlUrl="http://laike9m.com/blog/rss" htmlUrl="https://laike9m.com/blog/rss"/>
+      <outline text="OpenACID Blog" title="OpenACID Blog" type="rss" 
+            xmlUrl="https://blog.openacid.com/feed.xml" htmlUrl="https://blog.openacid.com/"/>
+      <outline text="drdr.xp Blog" title="drdr.xp Blog" type="rss" 
+            xmlUrl="https://drmingdrmer.github.io/feed.xml" htmlUrl="https://drmingdrmer.github.io/"/>
+      <outline text="Sebastian Raschka, PhD" title="Sebastian Raschka, PhD" type="rss" 
+            xmlUrl="https://sebastianraschka.com/rss_feed.xml" htmlUrl="https://sebastianraschka.com/"/>
+      <outline text="LWN.net" title="LWN.net" type="rss" 
+            xmlUrl="https://zhangyoufu.github.io/lwn/rss.rdf" htmlUrl="https://lwn.net"/>
+      <outline text="Jeff Layton" title="Jeff Layton" type="rss" 
+            xmlUrl="https://jtlayton.wordpress.com/feed/" htmlUrl="https://jtlayton.wordpress.com"/>
+      <outline text="	Comments for Jeff Layton	" title="	Comments for Jeff Layton	" type="rss" 
+            xmlUrl="https://jtlayton.wordpress.com/comments/feed/" htmlUrl="https://jtlayton.wordpress.com"/>
+      <outline text="云风的 BLOG" title="云风的 BLOG" type="rss" 
+            xmlUrl="https://blog.codingnow.com/atom.xml" htmlUrl="https://blog.codingnow.com/"/>
+      <outline text="Pigsty – Pigsty Blog" title="Pigsty – Pigsty Blog" type="rss" 
+            xmlUrl="https://pigsty.cc/blog/index.xml" htmlUrl="/blog/"/>
+      <outline text="Main stream | FreshRSS" title="Main stream | FreshRSS" type="rss" 
+            xmlUrl="https://borecraft.com/freshrss/p/i/./?a=rss&amp;hours=168" htmlUrl="https://borecraft.com/freshrss/p"/>
+      <outline text="TechPowerUp-News" title="TechPowerUp" type="rss" 
+            xmlUrl="https://www.techpowerup.com/rss/news" htmlUrl="https://www.techpowerup.com"/>
+      <outline text="TechPowerUp-Reviews" title="TechPowerUp-Reviews" type="rss" 
+            xmlUrl="https://www.techpowerup.com/rss/reviews" htmlUrl="https://www.techpowerup.com"/>
+      <outline text="StorageReview.com - Storage Reviews" title="StorageReview.com - Storage Reviews" type="rss" 
+            xmlUrl="https://www.storagereview.com/rss.xml" htmlUrl="https://www.storagereview.com"/>
+      <outline text=" Tomshardware " title=" Tomshardware " type="rss" 
+            xmlUrl="https://www.tomshardware.com/feeds/all" htmlUrl="https://www.tomshardware.com"/>
+      <outline text="AnandTech" title="AnandTech" type="rss" 
+            xmlUrl="https://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com"/>
+</body>
+</opml>
